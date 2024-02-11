@@ -39,6 +39,11 @@ git clone --depth 1 https://git.orudo.ru/trueold89/neovim.git ~/.config/nvim && 
 
 **And restart NeoVim**
 
+### ⛴️ Use with docker:
+```bash
+docker run --name='nvim' --rm -it git.orudo.ru/trueold89/nvim:latest
+```
+
 ### ⌨️ Custom KeyMaps:
 ---
 | **Key** | **Function** |
