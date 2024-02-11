@@ -1,5 +1,10 @@
 # Me NeoVim Configuration
 
+## Available on:
+[![](https://cloud.orudo.ru/apps/files_sharing/publicpreview/RpcoJB8FwgNmqHC?file=/&fileId=48757&x=1920&y=1200&a=true&etag=10effec96382ba8b9fc181a5c1c85012)](https://git.orudo.ru/trueold89/neovim)
+[![](https://cloud.orudo.ru/s/wcZ6oAGHyAwBgGw/download/GL.png)](https://gitlab.com/Trueold89/nvim)
+[![](https://cloud.orudo.ru/s/D8xtkTS8ZBCq8fC/download/GH.png)](https://github.com/trueold89/nvim)
+
 ### 🖼️ Screenshot:
 ---
 ![](https://i.imgur.com/dOrUtgh.png)
